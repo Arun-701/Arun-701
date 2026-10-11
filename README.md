@@ -1,14 +1,18 @@
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
   <tr>
-    <td align="center" valign="middle" width="220">
-      <img src="./profile.png.png" width="190" height="190" style="border-radius: 50%;" alt="Arunkumar Nedunchezhiyan" />
+    <td align="center" valign="middle" width="200">
+      <img src="./profile.png.png" width="170" height="170" style="border-radius: 50%; border: 3px solid #00d2ff;" alt="Arunkumar Nedunchezhiyan" />
     </td>
     <td valign="middle" align="left">
-      <h3>🚀 Full Stack & Data Analytics Engineer</h3>
-      <p>
-        🎓 <b>Status:</b> Final Year IT Engineer<br/>
-        🎯 <b>Focus:</b> Scalable Web Applications & Predictive ML Models<br/>
-        💡 <b>Mission:</b> Architecting High-Performance Intelligent Solutions
+      <h2 style="margin: 0; padding: 0;">⚡ ARUNKUMAR NEDUNCHEZHIYAN</h2>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00FF66&vCenter=true&width=520&height=32&lines=Full+Stack+%26+Data+Analytics+Engineer;Final+Year+IT+Engineer;Focus%3A+Scalable+Web+Apps+%26+ML+Models;Mission%3A+Architecting+Intelligent+Solutions" alt="Typing SVG" />
+      </a>
+      <p style="margin-top: 6px; line-height: 1.6;">
+        📍 <b>Base :</b> Salem, Tamil Nadu, India<br/>
+        🎓 <b>Degree:</b> B.Tech Information Technology (Final Year)<br/>
+        🚀 <b>Specialization:</b> MERN Stack • Data Analytics • Machine Learning<br/>
+        📫 <b>Connect:</b> <a href="https://www.linkedin.com/in/arunkumar-n">LinkedIn</a>
       </p>
     </td>
   </tr>
@@ -34,6 +38,10 @@
 ### 📊 TELEMETRY & STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arun-701&show_icons=true&theme=cyberpunk&hide_border=true" alt="Arun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-701&layout=compact&theme=cyberpunk&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arun-701&show_icons=true&theme=cyberpunk&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arun-701&layout=compact&theme=cyberpunk&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-701&theme=cyberpunk&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
