@@ -1,5 +1,3 @@
-# ⚡ ARUNKUMAR NEDUNCHEZHIYAN ⚡
-
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="middle" width="220">
