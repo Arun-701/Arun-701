@@ -2,18 +2,30 @@
 
 # ⚡ SYSTEM INITIALIZED: ARUN-701 ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=IT+Engineer+%26+Full+Stack+Developer;Machine+Learning+%26+Data+Analytics;root%40Arun-701%3A~%24+access+granted;Cyberpunk+Terminal+Online)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="./profile.png.png" width="160" height="160" style="border-radius: 50%; border: 3px solid #00D2FF; box-shadow: 0 0 15px #00D2FF;" alt="Arunkumar Nedunchezhiyan" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=IT+Engineer+%26+Full+Stack+Developer;Machine+Learning+%26+Data+Analytics;root%40Arun-701%3A~%24+access+granted;Cyberpunk+Terminal+Online)](https://git.io/typing-svg)
 
 <br/><br/>
 
-```bash
-[root@Arun-701 ~]# cat profile.env
+<!-- OPTION B TERMINAL HERO BANNER -->
+<img src="./terminal-card.png" width="100%" max-width="850" alt="Arunkumar Terminal Profile" />
 
-NAME    : Arunkumar Nedunchezhiyan
-ROLE    : Full Stack & Data Analytics Engineer
-STATUS  : Final Year IT Engineer
-FOCUS   : Scalable Web Apps & Predictive ML Models
+<br/><br/>
+
+---
+
+### 🏆 SYSTEM REPUTATION & TROPHIES
+[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Arun-701&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 TELEMETRY & STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arun-701&show_icons=true&theme=cyberpunk&hide_border=true" alt="Arun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-701&layout=compact&theme=cyberpunk&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+```terminal
+[root@arun-terminal ~]$ echo "Ready for deployment."
