@@ -5,15 +5,28 @@
     </td>
     <td valign="middle" align="left">
       <h1 style="margin: 0; padding: 0;">𝓐𝓡𝓤𝓝𝓚𝓤𝓜𝓐𝓡</h1>
+      
+      <!-- Running letters with animated cursor -->
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00FF66&vCenter=true&width=550&height=32&lines=Full+Stack+%26+Data+Analytics+Engineer;Final+Year+IT+Engineer;Focus%3A+Scalable+Web+Apps+%26+ML+Models;Mission%3A+Architecting+Intelligent+Solutions" alt="Role Animation" />
       </a>
-      <p style="margin-top: 6px; line-height: 1.6;">
-        📍 <b>Base :</b> Salem, Tamil Nadu, India<br/>
-        🎓 <b>Degree:</b> B.Tech Information Technology (Final Year)<br/>
-        🚀 <b>Specialization:</b> MERN Stack • Data Analytics • Machine Learning<br/>
-        🔗 <b>Connect:</b> <a href="https://www.linkedin.com/in/arunkumar-n-analyst/">LinkedIn Profile</a>
-      </p>
+
+      <div style="margin-top: 10px; line-height: 2.2;">
+        <div>
+          <img src="https://img.shields.io/badge/📍_Base-Salem%2C_Tamil_Nadu%2C_India-0d1117?style=flat-square&labelColor=161b22&color=00D2FF" alt="Base" />
+        </div>
+        <div>
+          <img src="https://img.shields.io/badge/🎓_Degree-B.Tech_IT_(Final_Year)-0d1117?style=flat-square&labelColor=161b22&color=A371F7" alt="Degree" />
+        </div>
+        <div>
+          <img src="https://img.shields.io/badge/🚀_Specialization-MERN_•_Data_Analytics_•_ML-0d1117?style=flat-square&labelColor=161b22&color=3FB950" alt="Specialization" />
+        </div>
+        <div>
+          <a href="https://www.linkedin.com/in/arunkumar-n-analyst/">
+            <img src="https://img.shields.io/badge/🔗_Connect-LinkedIn_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
