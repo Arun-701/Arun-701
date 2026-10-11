@@ -11,7 +11,7 @@
 <table border="0" cellpadding="10" cellspacing="0" align="center">
   <tr>
     <td align="center" valign="middle" width="200">
-      <img src="./profile.png" width="180" style="border-radius: 50%; border: 3px solid #00D2FF;" alt="Arunkumar Nedunchezhiyan" />
+      <img src="./profile.png.png" width="180" style="border-radius: 50%; border: 3px solid #00D2FF;" alt="Arunkumar Nedunchezhiyan" />
     </td>
     <td valign="top">
       <pre>
