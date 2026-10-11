@@ -4,12 +4,7 @@
       <img src="./profile.png.png" width="170" height="170" style="border-radius: 50%;" alt="Arunkumar" />
     </td>
     <td valign="middle" align="left">
-      <!-- Custom Monospace Font & Cyan Neon Color -->
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=100000&color=00D2FF&vCenter=true&width=450&height=40&lines=%E2%9A%A1+ARUNKUMAR" alt="Arunkumar" />
-      </a>
-      <br/>
-      <!-- Dynamic Animated Green Roles -->
+      <h1 style="margin: 0; padding: 0;">𝓐𝓡𝓤𝓝𝓚𝓤𝓜𝓐𝓡</h1>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00FF66&vCenter=true&width=550&height=32&lines=Full+Stack+%26+Data+Analytics+Engineer;Final+Year+IT+Engineer;Focus%3A+Scalable+Web+Apps+%26+ML+Models;Mission%3A+Architecting+Intelligent+Solutions" alt="Role Animation" />
       </a>
