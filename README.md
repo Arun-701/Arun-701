@@ -5,7 +5,10 @@
 </td>
 <td valign="top" align="left">
 
-# 𝓐𝓡𝓤𝓝𝓚𝓤𝓜𝓐𝓡
+<!-- GLOWING NEON NAME BANNER -->
+<img src="./glowing-name.png" width="400" alt="𝓐𝓡𝓤𝓝𝓚𝓤𝓜𝓐𝓡" />
+
+<br/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00FF66&vCenter=true&width=550&height=30&lines=Full+Stack+%26+Data+Analytics+Engineer;Final+Year+IT+Engineer;Focus%3A+Scalable+Web+Apps+%26+ML+Models;Mission%3A+Architecting+Intelligent+Solutions" alt="Role Animation" /></a>
 
