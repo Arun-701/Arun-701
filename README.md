@@ -4,15 +4,17 @@
       <img src="./profile.png.png" width="170" height="170" style="border-radius: 50%; border: 3px solid #00d2ff;" alt="Arunkumar Nedunchezhiyan" />
     </td>
     <td valign="middle" align="left">
-      <h2 style="margin: 0; padding: 0;">⚡ ARUNKUMAR NEDUNCHEZHIYAN</h2>
+      <h2 style="margin: 0; padding: 0; font-family: 'Courier New', monospace; letter-spacing: 1.5px;">
+        ⚡ <font color="#00D2FF">ARUNKUMAR</font> <font color="#00FF66">NEDUNCHEZHIYAN</font>
+      </h2>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00FF66&vCenter=true&width=520&height=32&lines=Full+Stack+%26+Data+Analytics+Engineer;Final+Year+IT+Engineer;Focus%3A+Scalable+Web+Apps+%26+ML+Models;Mission%3A+Architecting+Intelligent+Solutions" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00FF66&vCenter=true&width=550&height=32&lines=Full+Stack+%26+Data+Analytics+Engineer;Final+Year+IT+Engineer;Focus%3A+Scalable+Web+Apps+%26+ML+Models;Mission%3A+Architecting+Intelligent+Solutions" alt="Typing SVG" />
       </a>
-      <p style="margin-top: 6px; line-height: 1.6;">
+      <p style="margin-top: 6px; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
         📍 <b>Base :</b> Salem, Tamil Nadu, India<br/>
         🎓 <b>Degree:</b> B.Tech Information Technology (Final Year)<br/>
         🚀 <b>Specialization:</b> MERN Stack • Data Analytics • Machine Learning<br/>
-        📫 <b>Connect:</b> <a href="https://www.linkedin.com/in/arunkumar-n">LinkedIn</a>
+        🔗 <b>Connect:</b> <a href="https://www.linkedin.com/in/arunkumar-n-analyst/">LinkedIn Profile</a>
       </p>
     </td>
   </tr>
@@ -31,17 +33,4 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-</p>
-
----
-
-### 📊 TELEMETRY & STATS
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arun-701&show_icons=true&theme=cyberpunk&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arun-701&layout=compact&theme=cyberpunk&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arun-701&theme=cyberpunk&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
